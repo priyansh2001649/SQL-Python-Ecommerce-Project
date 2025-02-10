@@ -1,6 +1,4 @@
-import pandas as pd
-import mysql.connector
-import os
+
 
 # List of CSV files and their corresponding table names
 csv_files = [
